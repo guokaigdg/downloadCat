@@ -10,3 +10,10 @@
 ```
 pip install urllib3
 ```
+
+#### 运行
+
+```
+python cat.py 
+```
+
